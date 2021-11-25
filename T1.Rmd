@@ -25,15 +25,27 @@ Contact Info {#contact}
 - For more information, please visit my personal website under
 - <i class="fa fa-globe"></i> [ebadi-malek.me](https://ebadi-malek.me)
 - <i class="fa fa-github"></i> [github.com/mebdix](https://github.com/mebdix)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/malekebadi/](https://linkedin.com/in/malekebadi/)
 
-Skills {#skills}
+TECHNICAL Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Modeling and decision making in healthcare, Maintenance, crowdsourcing 
 
-- Full experience with next generation sequencing data analysis.
+- Supply chain management, multiplayer decision making and contracting
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Operations research and optimization methods, stochastic modeling, statistical analysis
+
+- Programming skills in MATLAB, R, and LaTeX
+
+PROGRAMMING Skills {#pskills}
+--------------------------------------------------------------------------------
+
+- Programming skills in MATLAB, R, and LaTeX
+- Programming skills in MATLAB, R, and LaTeX
+- Programming skills in MATLAB, R, and LaTeX
+- Programming skills in MATLAB, R, and LaTeX
+- Programming skills in MATLAB, R, and LaTeX
 
 
 Disclaimer {#disclaimer}
@@ -44,44 +56,49 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 Last updated on `r Sys.Date()`.
 
 
-
 Main
 ================================================================================
 
 Malek Ebadi {#title}
 --------------------------------------------------------------------------------
-
+### Industrial Engineer Ph.D.
 ### Currently searching for a job
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. 
-My academic research primarily concerns healthcare decision making under uncertainty.
-If you are interested in my background and skills, please feel free to contact me or visit my personal [**website**](https://ebadi-malek.me).
+- Operations Research, Operations Management, Decision making under uncertainty 
+- My academic research primarily concerns healthcare decision making 
+- If you are interested in my background and skills, please feel free to contact me or visit my personal [**website**](https://ebadi-malek.me).
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Sabanci University 
 
-B.S. in Information and Computing Sciences
+Ph.D. in Industrial Engineering
 
-Beijing, China
+Istanbul, Turkey
 
-2010
+2021
 
 Thesis: Dyadic wavelet and its application in edge detection
 
-### University of Chinese Academy of Sciences
+### Bilkent University 
 
-M.S. in Bioinformatics
+M.Sc. in Industrial Engineering
 
-Beijing, China
+Ankara, Turkey
 
 2014
 
 Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+
+### University of Tabriz
+
+B.Sc. in Civil Engineering
+
+Tabriz, Iran
+
+2010
 
 
 Research Experience {data-icon=laptop}
