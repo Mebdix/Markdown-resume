@@ -42,10 +42,6 @@ PROGRAMMING Skills {#pskills}
 --------------------------------------------------------------------------------
 
 - Programming skills in MATLAB, R, and LaTeX
-- Programming skills in MATLAB, R, and LaTeX
-- Programming skills in MATLAB, R, and LaTeX
-- Programming skills in MATLAB, R, and LaTeX
-- Programming skills in MATLAB, R, and LaTeX
 
 
 Disclaimer {#disclaimer}
